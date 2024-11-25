@@ -16,6 +16,6 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]:
+[twitter]: https://www.linkedin.com/in/abdiomarobsieh/
 [instagram]: https://www.linkedin.com/in/abdiomarobsieh/
 [linkedin]: https://www.linkedin.com/in/abdiomarobsieh/
